@@ -16,6 +16,7 @@ futbol(soccer) and critiquing pizza. My main focus after college is to create a 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://dpapp.website/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-b-papp/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dannydchef)
+[![stackoverflow](https://img.shields.io/badge/stack_overflow-F48225?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13244458/daniel-b-papp)
 
 
 ## Other Common Github Profile Sections
